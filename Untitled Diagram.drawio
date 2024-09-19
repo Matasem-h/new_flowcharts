@@ -1,9 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14">
   <diagram name="Page-1" id="zof5tz8f-dHL62qL-11I">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fLuB_CszGPoXehsg57Zd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-1" target="fLuB_CszGPoXehsg57Zd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-1" value="Guess the letter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-2" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-3" target="fLuB_CszGPoXehsg57Zd-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-3" value="No" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-9" value="The letter is correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="280" width="115" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-9" target="fLuB_CszGPoXehsg57Zd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-9" target="fLuB_CszGPoXehsg57Zd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-22" value="You lose one life!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-23" value="1/6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLuB_CszGPoXehsg57Zd-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-26" value="Guess the letter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLuB_CszGPoXehsg57Zd-28" value="The letter is correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="670" width="115" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
