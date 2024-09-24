@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14">
   <diagram name="Page-1" id="LkJBTv4y6TwAtge2F0VY">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-1" value="What is your name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-2" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-3" value="Display&amp;nbsp; name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PCg33NR9U9m2uZJvDsLc-2" target="PCg33NR9U9m2uZJvDsLc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-6" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-7" value="What is your bid?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-9" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="380" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-10" value="Display&amp;nbsp; bid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-13" value="Are there any other bidders? Type &#39;yes&#39; or &#39;no&#39;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-14" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="630" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-15" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-16" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-17" value="If yes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="185" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-18" value="If no" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="585" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-19" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-20" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="630" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-21" value="End the process&lt;br&gt;Display&amp;nbsp; results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-22" value="&lt;div&gt;Repeat process&lt;br&gt;Don&#39;t display results&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-25" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="750" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-26" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-27" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="60" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="275" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-29" value="Create a for loop? Maybe" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PCg33NR9U9m2uZJvDsLc-30" value="Repeat the process" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
