@@ -32,14 +32,40 @@
         <mxCell id="2cyPgQrajxzZgctk4MhM-10" value="Display Option B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cyPgQrajxzZgctk4MhM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cyPgQrajxzZgctk4MhM-19" target="2cyPgQrajxzZgctk4MhM-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2cyPgQrajxzZgctk4MhM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cyPgQrajxzZgctk4MhM-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.0000000000002" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2cyPgQrajxzZgctk4MhM-19" value="Display VS Art" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2cyPgQrajxzZgctk4MhM-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="2cyPgQrajxzZgctk4MhM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cyPgQrajxzZgctk4MhM-25" target="2cyPgQrajxzZgctk4MhM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cyPgQrajxzZgctk4MhM-25" target="2cyPgQrajxzZgctk4MhM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-25" value="Ask the user who has the most followers" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cyPgQrajxzZgctk4MhM-26" target="2cyPgQrajxzZgctk4MhM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-26" value="If wrong" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cyPgQrajxzZgctk4MhM-28" target="2cyPgQrajxzZgctk4MhM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-28" value="If correct" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-30" value="End the program" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cyPgQrajxzZgctk4MhM-32" value="Display &quot;You Are Right!&quot; and do a loop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
