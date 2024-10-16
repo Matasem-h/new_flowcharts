@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YWrsg1rzncooKjmh2umx-6" value="Check resources" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="378" y="440" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YWrsg1rzncooKjmh2umx-8" value="End program" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="460" width="120" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YWrsg1rzncooKjmh2umx-14" value="Check if the transaction is successful" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="590" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="560" width="180" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YWrsg1rzncooKjmh2umx-16" value="Make Coffee" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="760" width="120" height="60" as="geometry" />
