@@ -31,7 +31,7 @@
         <mxCell id="FP77PSElBR2w1Ru2oWQU-15" value="Process coins" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FP77PSElBR2w1Ru2oWQU-19" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FP77PSElBR2w1Ru2oWQU-19" value="Check if transaction is successful" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FP77PSElBR2w1Ru2oWQU-24" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
