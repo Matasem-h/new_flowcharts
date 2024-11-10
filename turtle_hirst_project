@@ -108,8 +108,14 @@
         <mxCell id="0JYO3_e74_KQFmPh0oeJ-44" value="&lt;div&gt;Save your work&amp;nbsp;&lt;/div&gt;&lt;div&gt;and be happy :D&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="328" y="990" width="195" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="6a_oELbdginIBKNTuGTb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a_oELbdginIBKNTuGTb-1" target="6a_oELbdginIBKNTuGTb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a_oELbdginIBKNTuGTb-1" value="decide the start position" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6a_oELbdginIBKNTuGTb-3" value="create a for loop to move up and repeat the function" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
