@@ -34,8 +34,20 @@
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-8" value="Set color to green" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8bzjtN-8V0s7yi2wJTmo-10" value="Set speed to fastes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-10" target="8bzjtN-8V0s7yi2wJTmo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-10" value="Set speed to fastest" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-12" target="8bzjtN-8V0s7yi2wJTmo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-12" value="Create for loop" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-14" value="Set range to 360" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="590" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
