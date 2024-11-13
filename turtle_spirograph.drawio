@@ -7,7 +7,7 @@
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-1" target="8bzjtN-8V0s7yi2wJTmo-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8bzjtN-8V0s7yi2wJTmo-1" value="&lt;div&gt;import turtle&lt;/div&gt;&lt;div&gt;import random&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-1" value="&lt;div&gt;Import turtle&lt;/div&gt;&lt;div&gt;Import random&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-2" target="8bzjtN-8V0s7yi2wJTmo-4">
@@ -16,8 +16,20 @@
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-2" value="Set color mode to 255" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-4" target="8bzjtN-8V0s7yi2wJTmo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-4" target="8bzjtN-8V0s7yi2wJTmo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-4" value="Create turtle object " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-6" value="Set shape to turtle" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-8" value="Set color to green" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
