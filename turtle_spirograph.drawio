@@ -22,6 +22,9 @@
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-4" target="8bzjtN-8V0s7yi2wJTmo-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bzjtN-8V0s7yi2wJTmo-4" target="8bzjtN-8V0s7yi2wJTmo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-4" value="Create turtle object " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -30,6 +33,9 @@
         </mxCell>
         <mxCell id="8bzjtN-8V0s7yi2wJTmo-8" value="Set color to green" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8bzjtN-8V0s7yi2wJTmo-10" value="Set speed to fastes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
