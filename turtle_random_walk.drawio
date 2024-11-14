@@ -52,8 +52,32 @@
         <mxCell id="J19cRgD72Q7SGxjf4KrP-28" value="Create a list of directions" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J19cRgD72Q7SGxjf4KrP-34" target="J19cRgD72Q7SGxjf4KrP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J19cRgD72Q7SGxjf4KrP-34" target="J19cRgD72Q7SGxjf4KrP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J19cRgD72Q7SGxjf4KrP-34" target="J19cRgD72Q7SGxjf4KrP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J19cRgD72Q7SGxjf4KrP-34" value="&lt;div&gt;Create a for&lt;/div&gt;&lt;div&gt;&amp;nbsp;loop with a range of 300&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="560" width="128" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-36" value="Jim.forward(30)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-38" value="&lt;div&gt;Jim.setheading&lt;/div&gt;&lt;div&gt;(random.choice&lt;/div&gt;&lt;div&gt;(directions))&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J19cRgD72Q7SGxjf4KrP-40" target="J19cRgD72Q7SGxjf4KrP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-40" value="&lt;div&gt;Set random pen&lt;/div&gt;&lt;div&gt;&amp;nbsp;color for each new direction&lt;/div&gt;&lt;div&gt;&amp;nbsp;in the loop&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J19cRgD72Q7SGxjf4KrP-42" value="End :)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
