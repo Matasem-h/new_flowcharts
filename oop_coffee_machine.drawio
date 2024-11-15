@@ -52,6 +52,9 @@
         <mxCell id="NlupzZtL1dCH14fbyRT--28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--20" target="NlupzZtL1dCH14fbyRT--27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--20" target="NlupzZtL1dCH14fbyRT--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NlupzZtL1dCH14fbyRT--20" value="While is_on = True" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="400" width="155" height="160" as="geometry" />
         </mxCell>
@@ -66,6 +69,21 @@
         </mxCell>
         <mxCell id="NlupzZtL1dCH14fbyRT--29" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="448" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--30" target="NlupzZtL1dCH14fbyRT--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--30" target="NlupzZtL1dCH14fbyRT--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--30" value="If input = &quot;report&quot;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="357.75" y="600" width="135.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--32" value="&lt;div&gt;Offer coffee&lt;/div&gt;&lt;div&gt;&amp;nbsp;maker report&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--34" value="&lt;div&gt;Offer money&lt;/div&gt;&lt;div&gt;&amp;nbsp;machine report&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
