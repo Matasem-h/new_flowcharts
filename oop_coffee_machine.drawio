@@ -28,6 +28,9 @@
         <mxCell id="NlupzZtL1dCH14fbyRT--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--8" target="NlupzZtL1dCH14fbyRT--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--8" target="NlupzZtL1dCH14fbyRT--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NlupzZtL1dCH14fbyRT--8" value="Create object for CoffeeMaker()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="NlupzZtL1dCH14fbyRT--12" value="Create object from MoneyMachine()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlupzZtL1dCH14fbyRT--14" value="Create is_on variable and set to true" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
