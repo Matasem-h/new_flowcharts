@@ -91,7 +91,7 @@
         <mxCell id="NlupzZtL1dCH14fbyRT--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--36" target="NlupzZtL1dCH14fbyRT--38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NlupzZtL1dCH14fbyRT--36" value="&lt;div&gt;Else:&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NlupzZtL1dCH14fbyRT--36" value="&lt;div&gt;Else&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="357.75" y="830" width="135.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NlupzZtL1dCH14fbyRT--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlupzZtL1dCH14fbyRT--38" target="NlupzZtL1dCH14fbyRT--42">
@@ -122,7 +122,7 @@
         <mxCell id="NlupzZtL1dCH14fbyRT--45" value="Make coffee" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NlupzZtL1dCH14fbyRT--49" value="End :)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NlupzZtL1dCH14fbyRT--49" value="End :" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
