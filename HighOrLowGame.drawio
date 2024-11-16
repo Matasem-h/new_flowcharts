@@ -40,8 +40,32 @@
         <mxCell id="4brsHmR7xtJKFUA7RF_a-14" value="Print option B" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="32.5" y="455" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4brsHmR7xtJKFUA7RF_a-16" target="4brsHmR7xtJKFUA7RF_a-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4brsHmR7xtJKFUA7RF_a-16" value="Ask the user to guess A or B" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4brsHmR7xtJKFUA7RF_a-20" target="4brsHmR7xtJKFUA7RF_a-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4brsHmR7xtJKFUA7RF_a-20" target="4brsHmR7xtJKFUA7RF_a-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-20" value="&lt;div&gt;Check if&amp;nbsp;&lt;/div&gt;&lt;div&gt;the user&#39;s answer&lt;/div&gt;&lt;div&gt;&amp;nbsp;is correct&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="810" width="135" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-22" value="&lt;div&gt;Loop the&lt;/div&gt;&lt;div&gt;&amp;nbsp;program&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580.5" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-24" value="&lt;div&gt;End the&amp;nbsp;&lt;/div&gt;&lt;div&gt;program&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150.5" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="848" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4brsHmR7xtJKFUA7RF_a-28" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="848" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
