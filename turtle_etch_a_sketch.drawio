@@ -52,6 +52,9 @@
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-14" target="xzMERXrAKy0U1Wa6-c2J-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-14" target="xzMERXrAKy0U1Wa6-c2J-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-14" value="&lt;div&gt;Define new&lt;/div&gt;&lt;div&gt;&amp;nbsp;functions&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,6 +75,9 @@
         </mxCell>
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-22" value="Define Forward Function" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-24" value="Define Reset Function" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
