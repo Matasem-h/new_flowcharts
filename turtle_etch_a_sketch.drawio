@@ -118,8 +118,14 @@
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-36" value="C Keybind" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="890" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-38" target="xzMERXrAKy0U1Wa6-c2J-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-38" value="Screen.exitonclick" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-42" value="End :)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
