@@ -76,8 +76,50 @@
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-22" value="Define Forward Function" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="450" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-24" target="xzMERXrAKy0U1Wa6-c2J-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xzMERXrAKy0U1Wa6-c2J-24" value="Define Reset Function" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-26" target="xzMERXrAKy0U1Wa6-c2J-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-26" target="xzMERXrAKy0U1Wa6-c2J-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-26" target="xzMERXrAKy0U1Wa6-c2J-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-26" value="Add screen.listen() function" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-28" target="xzMERXrAKy0U1Wa6-c2J-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-28" value="D Keybind" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-30" value="W Keybind" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-32" target="xzMERXrAKy0U1Wa6-c2J-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-32" value="A Keybind" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-34" value="S Keybind" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzMERXrAKy0U1Wa6-c2J-36" target="xzMERXrAKy0U1Wa6-c2J-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-36" value="C Keybind" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzMERXrAKy0U1Wa6-c2J-38" value="Screen.exitonclick" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
