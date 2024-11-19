@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6MrAIaWSbRFo6qhnKcz3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MrAIaWSbRFo6qhnKcz3-1" target="6MrAIaWSbRFo6qhnKcz3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6MrAIaWSbRFo6qhnKcz3-1" value="Import question model, data, quiz brain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MrAIaWSbRFo6qhnKcz3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MrAIaWSbRFo6qhnKcz3-2" target="6MrAIaWSbRFo6qhnKcz3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MrAIaWSbRFo6qhnKcz3-2" value="&lt;div&gt;Create an empty list called&lt;/div&gt;&lt;div&gt;&amp;nbsp;question_bank&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MrAIaWSbRFo6qhnKcz3-4" value="&lt;div&gt;For loop that&lt;/div&gt;&lt;div&gt;&amp;nbsp;contain all&lt;/div&gt;&lt;div&gt;&amp;nbsp;questions&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="300" width="125" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
